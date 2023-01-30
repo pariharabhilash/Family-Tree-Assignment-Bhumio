@@ -1,0 +1,91 @@
+{
+  "id": "1",
+  "name": "ramesh",
+  "spouse": "qwqw",
+  "location": "uoituoit",
+  "yearOfBirth": "0980",
+  "address": "lkjglkgjldfjglfdkjgldjgdkjgldkjgldkjlgfkjdgljglkfjgl",
+  "familyPhotos": [
+    {
+      "img": "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e",
+      "title": ""
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d",
+      "title": ""
+    }
+  ],
+  "children": [
+    {
+      "id": "2",
+      "name": "suresh",
+      "spouse": "jljlkxj",
+      "location": "uoituoit",
+      "yearOfBirth": "0980",
+      "address": "lkjglkgjldfjglfdkjgldjgdkjgldkjgldkjlgfkjdgljglkfjgl",
+      "familyPhotos": [
+        {
+          "img": "https://images.unsplash.com/photo-1522770179533-24471fcdba45",
+          "title": ""
+        },
+        {
+          "img": "https://images.unsplash.com/photo-1444418776041-9c7e33cc5a9c",
+          "title": ""
+        }
+      ],
+      "children": [
+        {
+          "id": "3",
+          "name": "brijesh",
+          "spouse": "jljlkxj",
+          "location": "uoituoit",
+          "yearOfBirth": "0980",
+          "address": "lkjglkgjldfjglfdkjgldjgdkjgldkjgldkjlgfkjdgljglkfjgl",
+          "familyPhotos": [],
+          "children": [
+            {
+              "id": "4",
+              "name": "sumesh",
+              "spouse": "jljlkxj",
+              "location": "uoituoit",
+              "yearOfBirth": "0980",
+              "address": "lkjglkgjldfjglfdkjgldjgdkjgldkjgldkjlgfkjdgljglkfjgl",
+              "familyPhotos": [],
+              "children": []
+            },
+            {
+              "id": "5",
+              "name": "rakesh",
+              "spouse": "jljlkxj",
+              "location": "uoituoit",
+              "yearOfBirth": "0980",
+              "address": "lkjglkgjldfjglfdkjgldjgdkjgldkjgldkjlgfkjdgljglkfjgl",
+              "familyPhotos": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "name": "hari",
+          "spouse": "jljlkxj",
+          "location": "uoituoit",
+          "yearOfBirth": "0980",
+          "address": "lkjglkgjldfjglfdkjgldjgdkjgldkjgldkjlgfkjdgljglkfjgl",
+          "familyPhotos": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "krishna",
+      "spouse": "jljlkxj",
+      "location": "uoituoit",
+      "yearOfBirth": "0980",
+      "address": "lkjglkgjldfjglfdkjgldjgdkjgldkjgldkjlgfkjdgljglkfjgl",
+      "familyPhotos": [],
+      "children": []
+    }
+  ]
+}
