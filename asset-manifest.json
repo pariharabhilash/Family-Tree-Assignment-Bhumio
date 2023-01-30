@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Family-Tree-Assignment-Bhumio/static/css/main.3a9b1e39.css",
+    "main.js": "/Family-Tree-Assignment-Bhumio/static/js/main.d3d3ff3a.js",
+    "static/js/787.ec704a7a.chunk.js": "/Family-Tree-Assignment-Bhumio/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/Family-Tree-Assignment-Bhumio/index.html",
+    "main.3a9b1e39.css.map": "/Family-Tree-Assignment-Bhumio/static/css/main.3a9b1e39.css.map",
+    "main.d3d3ff3a.js.map": "/Family-Tree-Assignment-Bhumio/static/js/main.d3d3ff3a.js.map",
+    "787.ec704a7a.chunk.js.map": "/Family-Tree-Assignment-Bhumio/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a9b1e39.css",
+    "static/js/main.d3d3ff3a.js"
+  ]
+}
